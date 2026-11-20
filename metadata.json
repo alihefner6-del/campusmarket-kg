@@ -1,0 +1,6 @@
+{
+  "name": "CampusMarket KG",
+  "description": "Peer-to-peer verified student marketplace for Bishkek universities (AUCA, Manas, KRSU, KSTU, Ala-Too) with campus safe-zone meetups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
